@@ -7,5 +7,6 @@ double IMul(double, double)
 
 double Gsum(double, double);
 
+double Gmin(double, double);
 
 #endif // FUNCS_H

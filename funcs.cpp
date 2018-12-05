@@ -10,3 +10,9 @@ double Gsum(double a, double b)
 return a + b;
 }
 
+double Gmin(double a, double b)
+{
+return a - b;
+}
+
+
