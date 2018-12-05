@@ -13,7 +13,7 @@ int main()
     {
     case '+': cout << Gsum(a, b) << endl;
         break;
-    case '-': cout << "develop"<<endl;
+   case '-': cout << Gmin(a, b) << endl;
         break;
     case '/': cout << "develop"<<endl;
         break;
