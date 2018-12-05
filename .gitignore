@@ -18,6 +18,10 @@ MSBuild targets
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*
 *_i.c
+.vs/
+Kalc.sln
+Kalc.vcxproj
+Kalc.vcxproj.filters
 *_p.c
 *.ilk
 *.meta

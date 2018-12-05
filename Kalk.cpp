@@ -19,8 +19,8 @@ int main()
         break;
     case '*':cout << a<<"*"<<b<<"="<<IMul(a,b)<<endl;
         break;
-    deafult: cout << "Mistake"<<endl;;
+    deafult: cout << "Mistake"<<endl;
     }
-system(pause);
+system("pause");
 return 0;
 }
