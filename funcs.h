@@ -4,7 +4,7 @@
 
 double IMul(double, double) 
 
-
+double IDiv(double, double) 
 double Gsum(double, double);
 
 double Gmin(double, double);

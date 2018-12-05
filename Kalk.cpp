@@ -15,7 +15,7 @@ int main()
         break;
    case '-': cout << Gmin(a, b) << endl;
         break;
-    case '/': cout << "develop"<<endl;
+    case '/': cout << a<<"/"<<b<<"="<<IDiv(a,b)<<endl;
         break;
     case '*':cout << a<<"*"<<b<<"="<<IMul(a,b)<<endl;
         break;
