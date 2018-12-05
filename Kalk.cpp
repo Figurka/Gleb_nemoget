@@ -11,7 +11,7 @@ int main()
     cin >> b;
     switch (c)
     {
-    case '+': cout << "develop"<<endl;
+    case '+': cout << Gsum(a, b) << endl;
         break;
     case '-': cout << "develop"<<endl;
         break;
